@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="7" revision="1" build="3"/>
+    <region id="MetaData">
+        <node id="root">
+            <attribute id="GameProject" type="LSString" value=""/>
+            <attribute id="Module" type="LSString" value="af22153f-a1cf-fd29-855a-18ad40cf5616"/>
+            <attribute id="Name" type="LSString" value="Death_House"/>
+            <attribute id="UUID" type="LSString" value="cce43c61-9eb7-d06b-f219-6cbe3862687e"/>
+            <children>
+                <node id="Categories"/>
+            </children>
+        </node>
+    </region>
+</save>
